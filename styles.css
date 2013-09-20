@@ -1,0 +1,28 @@
+* {
+    font-family: Helvetica, Verdana, Arial, Courier;
+}
+
+ul {
+    margin : 0;
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 25px;
+    font-size: 18px;
+}
+
+li a {
+    display: block;
+    text-decoration: none;
+    cursor: pointer;
+    color : #e62913;
+    padding : 10px;
+    border-radius: 8px;
+    width: 350px;
+}
+
+li a:hover {
+    color : white;
+    background-color: #4384c7;
+}
